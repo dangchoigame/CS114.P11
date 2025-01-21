@@ -1,1 +1,10 @@
+#Hướng dẫn chạy:
+1. Nếu tải về máy (chạy trên Visual Studio Code):
 
+-Xóa cell 1 (vì code được thực hiện trên google colab).
+
+-Tải các thư viện cần thiết.
+
+-Đổi lại tên các đường dẫn nguồn cho đúng (dataset lưu về máy, ...) và đổi tên đường dẫn đích.
+
+2. Nếu chạy trên google colab
