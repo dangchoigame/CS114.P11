@@ -6,3 +6,5 @@
 -Tải các thư viện cần thiết.
 
 -Đổi lại tên các đường dẫn nguồn cho đúng (dataset lưu về máy, ...) và đổi tên đường dẫn đích.
+
+-Chạy lần lượt các file theo thứ tự (trừ 1a vì là code đổi tên ảnh trong bài tập thu thập dữ liệu của nhóm).
